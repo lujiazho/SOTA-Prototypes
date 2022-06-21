@@ -25,3 +25,8 @@ Other versions might work as well.
   - Paper - [Masked Autoencoders Are Scalable Vision Learners (2021)](https://arxiv.org/pdf/2111.06377)
   - Ipynb - [MAE.ipynb](2-1.MAE/MAE.ipynb)
 
+#### 3. Unsupervised Models
+
+- 3-1. Generative Adversarial Networks (GAN)
+  - Paper - [Generative Adversarial Networks (2014)](https://arxiv.org/pdf/1406.2661)
+  - Ipynb - [GAN.ipynb](3-1.GAN/GAN.ipynb)
