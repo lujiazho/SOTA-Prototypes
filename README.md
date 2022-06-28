@@ -30,3 +30,9 @@ Other versions might work as well.
 - 3-1. Generative Adversarial Networks (GAN)
   - Paper - [Generative Adversarial Networks (2014)](https://arxiv.org/pdf/1406.2661)
   - Ipynb - [GAN.ipynb](3-1.GAN/GAN.ipynb)
+
+#### 4. NLP Models
+
+- 4-1. Transformer
+  - Paper - [Attention Is All You Need (2017)](https://arxiv.org/pdf/1706.03762)
+  - Ipynb - [Transformer.ipynb](4-1.Transformer/Transformer.ipynb)
