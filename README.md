@@ -1,6 +1,6 @@
 # SOTA-Prototypes
 
-Simplifyied prototypes of SOTAs with dummy data for better vision of model architecture itself.
+Simple prototypes of SOTAs with dummy data for better vision of model architecture itself.
 
 ## Environment
 Other versions might work as well.
