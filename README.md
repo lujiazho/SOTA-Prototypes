@@ -36,3 +36,11 @@ Other versions might work as well.
 - 4-1. Transformer
   - Paper - [Attention Is All You Need (2017)](https://arxiv.org/pdf/1706.03762)
   - Ipynb - [Transformer.ipynb](4-1.Transformer/Transformer.ipynb)
+  
+  
+## DistributedDataParallel - (Example Purpose)
+
+- 0-1. Distributed Data Parallel (DDP)
+  - Ipynb - [DDP1.0.ipynb](0-1.DDP/DDP1.0.ipynb) (Single Node Single GPU)
+  - Ipynb - [DDP2.0.ipynb](0-1.DDP/DDP2.0.ipynb) (Multi Nodes Multi GPUs)
+  
