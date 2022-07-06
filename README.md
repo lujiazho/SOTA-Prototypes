@@ -23,23 +23,36 @@ Other versions might work as well.
   - Paper - [Deep Residual Learning for Image Recognition (2015)](https://arxiv.org/pdf/1512.03385)
   - Ipynb - [Resnet.ipynb](1-3.Resnet/Resnet.ipynb)
 
-#### 2. Self-Supervised Models
 
-- 2-1. Masked Autoencoder (MAE)
+#### 2. Detection Models
+
+- 2-1. Detection Transformer (DETR)
+  - Paper - [End-to-End Object Detection with Transformers (2020)](https://arxiv.org/pdf/2005.12872)
+  - Ipynb - [DETR.ipynb](2-1.DETR/DETR.ipynb)
+
+
+#### 3. Segmentation Models
+
+
+#### 4. Self-Supervised Models
+
+- 4-1. Masked Autoencoder (MAE)
   - Paper - [Masked Autoencoders Are Scalable Vision Learners (2021)](https://arxiv.org/pdf/2111.06377)
-  - Ipynb - [MAE.ipynb](2-1.MAE/MAE.ipynb)
+  - Ipynb - [MAE.ipynb](4-1.MAE/MAE.ipynb)
 
-#### 3. Unsupervised Models
 
-- 3-1. Generative Adversarial Networks (GAN)
+#### 5. Unsupervised Models
+
+- 5-1. Generative Adversarial Networks (GAN)
   - Paper - [Generative Adversarial Networks (2014)](https://arxiv.org/pdf/1406.2661)
-  - Ipynb - [GAN.ipynb](3-1.GAN/GAN.ipynb)
+  - Ipynb - [GAN.ipynb](5-1.GAN/GAN.ipynb)
 
-#### 4. NLP Models
 
-- 4-1. Transformer
+#### 6. NLP Models
+
+- 6-1. Transformer
   - Paper - [Attention Is All You Need (2017)](https://arxiv.org/pdf/1706.03762)
-  - Ipynb - [Transformer.ipynb](4-1.Transformer/Transformer.ipynb)
+  - Ipynb - [Transformer.ipynb](6-1.Transformer/Transformer.ipynb)
   
   
 ## DistributedDataParallel - (Example Purpose)
