@@ -12,12 +12,16 @@ Other versions might work as well.
 #### 1. Classification Models
 
 - 1-1. Vision Transformer (ViT)
-  - Paper -  [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale (2020)](https://arxiv.org/pdf/2010.11929)
+  - Paper - [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale (2020)](https://arxiv.org/pdf/2010.11929)
   - Ipynb - [ViT.ipynb](1-1.ViT/ViT.ipynb)
 
 - 1-2. Swin Transformer (Swin-T)
-  - Paper -  [Swin Transformer: Hierarchical Vision Transformer using Shifted Windows (2021)](https://arxiv.org/pdf/2103.14030)
+  - Paper - [Swin Transformer: Hierarchical Vision Transformer using Shifted Windows (2021)](https://arxiv.org/pdf/2103.14030)
   - Ipynb - [Swin-T.ipynb](1-2.Swin-T/Swin-T.ipynb)
+
+- 1-3. Resnet
+  - Paper - [Deep Residual Learning for Image Recognition (2015)](https://arxiv.org/pdf/1512.03385)
+  - Ipynb - [Resnet.ipynb](1-3.Resnet/Resnet.ipynb)
 
 #### 2. Self-Supervised Models
 
