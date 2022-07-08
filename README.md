@@ -33,6 +33,10 @@ Other versions might work as well.
 
 #### 3. Segmentation Models
 
+- 3-1. U-Net
+  - Paper - [U-Net: Convolutional Networks for Biomedical Image Segmentation (2015)](https://arxiv.org/pdf/1505.04597)
+  - Ipynb - []()
+
 
 #### 4. Self-Supervised Models
 
