@@ -23,6 +23,10 @@ Other versions might work as well.
   - Paper - [Deep Residual Learning for Image Recognition (2015)](https://arxiv.org/pdf/1512.03385)
   - Ipynb - [Resnet.ipynb](1-3.Resnet/Resnet.ipynb)
 
+- 1-4. VGG
+  - Paper - [Very Deep Convolutional Networks for Large-Scale Image Recognition (2014)](https://arxiv.org/pdf/1409.1556)
+  - Ipynb - [VGG.ipynb](1-4.VGG/VGG.ipynb)
+
 
 #### 2. Detection Models
 
