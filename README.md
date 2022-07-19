@@ -34,6 +34,10 @@ Other versions might work as well.
   - Paper - [End-to-End Object Detection with Transformers (2020)](https://arxiv.org/pdf/2005.12872)
   - Ipynb - [DETR.ipynb](2-1.DETR/DETR.ipynb)
 
+- 2-2. Single Shot Detector (SSD)
+  - Paper - [SSD: Single Shot MultiBox Detector (2015)](https://arxiv.org/pdf/1512.02325)
+  - Ipynb - [SSD300.ipynb](2-1.SSD/SSD300.ipynb)
+
 
 #### 3. Segmentation Models
 
