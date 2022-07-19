@@ -36,7 +36,7 @@ Other versions might work as well.
 
 - 2-2. Single Shot Detector (SSD)
   - Paper - [SSD: Single Shot MultiBox Detector (2015)](https://arxiv.org/pdf/1512.02325)
-  - Ipynb - [SSD300.ipynb](2-1.SSD/SSD300.ipynb)
+  - Ipynb - [SSD300.ipynb](2-2.SSD/SSD300.ipynb)
 
 
 #### 3. Segmentation Models
